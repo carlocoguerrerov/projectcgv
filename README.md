@@ -17,7 +17,9 @@ pandas: 1.3.5
 statsmodels: 0.13.2
 sklearn: 1.0.2
 tensorflow: 2.8.2
-keras: 2.8.0_
+keras: 2.8.0
+cv2: 4.6.0
+re: 2.2.1
 
 ```
 
